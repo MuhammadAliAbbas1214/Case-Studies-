@@ -1,2 +1,2 @@
 # Case-Studies-
-Data Analysis and complete case studies of companies
+complete case analysis of a hotel chain's positives and negatives
